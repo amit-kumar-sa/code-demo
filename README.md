@@ -1,4 +1,4 @@
 # code-demo
 this is my 2nd repository
 <br>
-Author - Amit kumar swain
+Author - Amit kumar swain.
